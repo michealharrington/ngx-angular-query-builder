@@ -13,12 +13,12 @@ npm install ngx-slam-query-builder
 
 ##### `app.module.ts`
 ```javascript
-import { NgxAngularQueryBuilderModule } from "ngx-slam-query-builder";
+import { NgxSlamQueryBuilderModule } from "ngx-slam-query-builder";
 import { AppComponent } from "./app.component"
 
 @NgModule(imports: [
   ...,
-  NgxAngularQueryBuilderModule,
+  NgxSlamQueryBuilderModule,
 ])
 export class AppModule { }
 ```

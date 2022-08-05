@@ -13,7 +13,7 @@ import { MatSelectModule } from '@angular/material/select';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
-import { NgxAngularQueryBuilderModule } from 'projects/ngx-slam-query-builder/src/public-api';
+import { NgxSlamQueryBuilderModule } from 'projects/ngx-slam-query-builder/src/public-api';
 
 import { AppComponent } from './app.component';
 
@@ -36,7 +36,7 @@ import { AppComponent } from './app.component';
     MatNativeDateModule,
     MatButtonModule,
     BrowserAnimationsModule,
-    NgxAngularQueryBuilderModule
+    NgxSlamQueryBuilderModule
   ],
   providers: [],
   bootstrap: [AppComponent]
