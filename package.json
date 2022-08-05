@@ -9,6 +9,10 @@
     "test": "ng test"
   },
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michealharrington/ngx-angular-query-builder.git"
+  },
   "dependencies": {
     "@angular/animations": "~13.3.11",
     "@angular/common": "~13.3.11",
