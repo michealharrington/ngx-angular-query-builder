@@ -1,4 +1,4 @@
-# NgxAngularQueryBuilder
+# NgxSlamQueryBuilder
 
 The goal of this project is to enable Angular 12+ support for the original [angular2-query-builder](https://github.com/designermanjeets/Angular-QueryBuilder). It is *not* production ready. This project may not be maintained. Should the original project become active again, this library may be abandoned.
 
