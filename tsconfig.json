@@ -12,9 +12,9 @@
     "declaration": false,
     "downlevelIteration": true,
     "paths": {
-      "ngx-angular-query-builder": [
-        "dist/ngx-angular-query-builder/ngx-angular-query-builder",
-        "dist/ngx-angular-query-builder"
+      "ngx-slam-query-builder": [
+        "dist/ngx-slam-query-builder/ngx-slam-query-builder",
+        "dist/ngx-slam-query-builder"
       ]
     },
     "experimentalDecorators": true,

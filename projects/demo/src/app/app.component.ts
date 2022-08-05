@@ -3,7 +3,7 @@ import { FormBuilder, FormControl } from '@angular/forms';
 
 import {
   QueryBuilderClassNames, QueryBuilderConfig
-} from 'projects/ngx-angular-query-builder/src/public-api';
+} from 'projects/ngx-slam-query-builder/src/public-api';
 
 @Component({
   selector: 'app-root',

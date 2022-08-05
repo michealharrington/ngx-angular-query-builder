@@ -7,13 +7,13 @@ which in turn is a fork from https://github.com/zebzhao/Angular-QueryBuilder bot
 
 # Examples
 
-npm install ngx-angular-query-builder
+npm install ngx-slam-query-builder
 
 ## Basic Usage
 
 ##### `app.module.ts`
 ```javascript
-import { NgxAngularQueryBuilderModule } from "ngx-angular-query-builder";
+import { NgxAngularQueryBuilderModule } from "ngx-slam-query-builder";
 import { AppComponent } from "./app.component"
 
 @NgModule(imports: [
@@ -31,7 +31,7 @@ export class AppModule { }
 ```
 ##### `app.component.ts`
 ```javascript
-import { QueryBuilderConfig } from 'ngx-angular-query-builder';
+import { QueryBuilderConfig } from 'ngx-slam-query-builder';
 
 export class AppComponent {
   query = {

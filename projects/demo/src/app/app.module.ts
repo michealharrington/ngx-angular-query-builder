@@ -13,7 +13,7 @@ import { MatSelectModule } from '@angular/material/select';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
-import { NgxAngularQueryBuilderModule } from 'projects/ngx-angular-query-builder/src/public-api';
+import { NgxAngularQueryBuilderModule } from 'projects/ngx-slam-query-builder/src/public-api';
 
 import { AppComponent } from './app.component';
 
